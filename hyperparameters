@@ -1,0 +1,7 @@
+layers = [8182,4096,1] 
+epochs = 1000 
+act_func = tf.nn.relu 
+dropout = 0.5 
+input_dropout = 0.2
+eta = 0.00001 
+norm = 'tanh' 
