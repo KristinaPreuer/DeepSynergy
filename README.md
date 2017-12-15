@@ -6,11 +6,11 @@ While drug combination therapies are a well-established concept in cancer treatm
 Example code for data normalization and a cross validation run is provided. 
 
 # Data
-Data for the example code as well as all labels and SMILES for the compounds are provided on: 
+Data for the example code as well as all labels and SMILES for the compounds are provided on:<br> 
 http://www.bioinf.jku.at/software/DeepSynergy/
 
 # Webservice
-The predictions of DeepSynergy are provided via a webservice:
+The predictions of DeepSynergy are provided via a webservice:<br>
 http://shiny.bioinf.jku.at/DeepSynergy/
 
 # Citation
