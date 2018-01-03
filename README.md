@@ -14,5 +14,5 @@ The predictions of DeepSynergy are provided via a webservice:<br>
 http://shiny.bioinf.jku.at/DeepSynergy/
 
 # Citation
-If you used our work helpful and the provided data helpful please cite:
+If you used our work helpful and the provided data helpful please cite:<br>
 K Preuer, RPI Lewis, S Hochreiter, A Bender, KC Bulusu, G Klambauer. 2017. DeepSynergy: predicting anti-cancer drug synergy with Deep Learning. Bioinformatics. btx806
